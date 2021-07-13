@@ -2,7 +2,7 @@
 
 ## Construindo um sistema de controle de ponto e acesso com Spring Boot
 
-Criar Backend utiliando:
+Criar Backend utilizando:
 
 - Java;
 - Spring Boot;
